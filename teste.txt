@@ -1,0 +1,21 @@
+
+
++     <link rel="stylesheet" href="estilo.css" type="text/css">
++	 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
++     <meta name="viewport" content="width=divice-width, initial-scale=1.0">
++</head>
++<body class="center clearfix">
++     <header>
++	 <figure>
++          <img src="imagens/professor.jpg" width="100" height="100" alt="Teste">
++	 <h1>PROFESSOR</h1>
++</body>
++<p>MENU:<a href="section.html"><code></code></a></p>
++<nav>
++     <ul>
++          <li><a href="#"><p><a href="index.html"><code>HOME</code></a></p></a></li>
++          <li><a href="#"><p><a href="professor.html"><code>PROFESSOR</code></a></p></a></li>
++          <li><a href="#"><p><a href="aluno.html"><code>ALUNO</code></a></p></a></li>
++          
+
+
